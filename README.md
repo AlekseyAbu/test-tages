@@ -1,4 +1,4 @@
-# vue-test
+Ссылка на деплой https://alekseyabu.github.io/test-tages/
 
 ## Project setup
 ```
